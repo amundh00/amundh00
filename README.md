@@ -2,9 +2,6 @@
 
 My Personal website: https://amundhalgunset.no/index.html
 
-🔭 I’m currently working on Project for NordCode
-🌱 I’m currently learning Html, Css and JavaScript
-
 
 <!--
 **amundh00/amundh00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
