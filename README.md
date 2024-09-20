@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Amund Halgunset</h1>
+<h1 align="center">Hello! 👋, I'm Amund Halgunset</h1>
 <h3 align="center">A passionate frontend developer from Trondheim, Norway. Now living in Bergen</h3>
 
 - 🔭 I’m currently working for [Nordcode SB](https://nordcode.no)
