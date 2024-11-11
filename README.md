@@ -32,7 +32,7 @@
 
 ### 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="Amund's GitHub stats" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api?amundh00=yourusername&show_icons=true&theme=radical" alt="Amund's GitHub stats" width="400"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" alt="Amund's Streak" width="400"/>
 </p>
 
