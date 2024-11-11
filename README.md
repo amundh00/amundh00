@@ -43,9 +43,6 @@
   <a href="https://www.linkedin.com/in/amund-halgunset-8ba54a104/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://twitter.com/yourtwitterhandle" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
   <a href="https://amundhalgunset.no" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio"/>
   </a>
