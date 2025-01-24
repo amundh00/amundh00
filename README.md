@@ -26,7 +26,9 @@
   <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal engine" width="40" height="40"/>
+  <img src="https://greensock.com/uploads/monthly_2020_06/gsap-logo.svg.9f8eb2451ab22854a78805d36a9234b3.svg" alt="GSAP" width="40" height="40"/>
 </p>
+
 
 ---
 
