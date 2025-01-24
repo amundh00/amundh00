@@ -26,7 +26,7 @@
   <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal engine" width="40" height="40"/>
-  <img src="[https://greensock.com/uploads/monthly_2020_06/gsap-logo.svg.9f8eb2451ab22854a78805d36a9234b3.svg](https://images.prismic.io/toyfight/65e1e07d27237c2bb829b9dc_GSAP-Meta-image.jpg?auto=format%2Ccompress&rect=0%2C0%2C2400%2C1260&w=2400&h=1260)" alt="GSAP" width="40" height="40"/>
+  <img src="https://greensock.com/uploads/monthly_2020_06/gsap-logo.svg.9f8eb2451ab22854a78805d36a9234b3.svg](https://images.prismic.io/toyfight/65e1e07d27237c2bb829b9dc_GSAP-Meta-image.jpg?auto=format%2Ccompress&rect=0%2C0%2C2400%2C1260&w=2400&h=1260)" alt="GSAP" width="40" height="40"/>
 </p>
 
 
